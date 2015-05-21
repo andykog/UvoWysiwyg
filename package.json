@@ -2,7 +2,7 @@
   "name": "uvowysiwyg",
   "title": "UvoWysiwyg",
   "description": "A lightweight WYSIWYG editor",
-  "version": "2.0.0-beta.3.1",
+  "version": "2.0.0-beta.3.2",
   "main": "dist/trumbowyg.js",
   "homepage": "http://alex-d.github.io/Trumbowyg",
   "author": {
