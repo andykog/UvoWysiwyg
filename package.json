@@ -1,8 +1,8 @@
 {
-  "name": "trumbowyg",
-  "title": "Trumbowyg",
+  "name": "uvowysiwyg",
+  "title": "UvoWysiwyg",
   "description": "A lightweight WYSIWYG editor",
-  "version": "2.0.0-beta.3",
+  "version": "2.0.0-beta.3.1",
   "main": "dist/trumbowyg.js",
   "homepage": "http://alex-d.github.io/Trumbowyg",
   "author": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Alex-D/Trumbowyg.git"
+    "url": "https://github.com/Sl1v3r/UvoWysiwyg.git"
   },
   "bugs": {
     "url": "https://github.com/Alex-D/Trumbowyg/issues"
